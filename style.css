@@ -1,0 +1,27 @@
+*{
+  margin: 0;
+  font-family: Comfortaa;
+}
+
+nav{
+  padding: 20px;
+  background-color: #ffffff;
+}
+
+.navbar{
+  text-align: center;
+  font-size: 38px;
+}
+
+.content{
+  background-image: url(assets/Untitled.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.content-text{
+  padding: 40px;
+  text-align: center;
+  color: white;
+  line-height: 50px;
+}
